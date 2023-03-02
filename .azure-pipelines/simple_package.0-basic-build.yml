@@ -27,7 +27,7 @@ trigger:
 
 # Run on a Microsoft-hosted agent running Ubuntu-16.04
 # https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops
-pool: Azure Pipelines
+pool: cwt-hmn-ap
   #vmImage: ubuntu-latest
 
 # Steps are the specific tasks that execute code and do things
