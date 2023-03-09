@@ -9,7 +9,7 @@
 
 # We'll define some variables for later use
 variables:
-  pythonVersion: 3.7
+  pythonVersion: 3.6
   package: simple_package
   srcDirectory: src/$(package)
   testsDirectory: tests/$(package)
